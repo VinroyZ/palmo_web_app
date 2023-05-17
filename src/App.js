@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Palmo Coming soon!</h1>
+        <h1>Palmo taking cheek!</h1>
         <h2>Logic made by Ji Young Lee</h2>
         <h2>Developed by Elijah Mangal</h2>
       </header>
